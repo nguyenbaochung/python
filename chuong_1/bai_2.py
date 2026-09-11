@@ -1,0 +1,12 @@
+a = int(input("nhap gia tri a: "))
+b = int(input('nhap gia tri b: '))
+c = int(input('nhap gia tri c: '))
+print("gia tri a: ",a)
+print("gia tri b: ",b)
+print("gia tri c: ",c)
+print('ket qua')
+print(a+b+c)
+print(type(a))
+print(type(b))
+print(type(c))
+
