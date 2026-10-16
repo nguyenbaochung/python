@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Thiet_Ke_Giao_DIen_B8/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="D:\luubtpython\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
